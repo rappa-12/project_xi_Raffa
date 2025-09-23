@@ -1,0 +1,14 @@
+C:\ProjectRaffaStatusUsia\ProjectRaffaStatusUsia\bin\Debug\net8.0\ProjectRaffaStatusUsia.exe
+C:\ProjectRaffaStatusUsia\ProjectRaffaStatusUsia\bin\Debug\net8.0\ProjectRaffaStatusUsia.deps.json
+C:\ProjectRaffaStatusUsia\ProjectRaffaStatusUsia\bin\Debug\net8.0\ProjectRaffaStatusUsia.runtimeconfig.json
+C:\ProjectRaffaStatusUsia\ProjectRaffaStatusUsia\bin\Debug\net8.0\ProjectRaffaStatusUsia.dll
+C:\ProjectRaffaStatusUsia\ProjectRaffaStatusUsia\bin\Debug\net8.0\ProjectRaffaStatusUsia.pdb
+C:\ProjectRaffaStatusUsia\ProjectRaffaStatusUsia\obj\Debug\net8.0\ProjectRaffaStatusUsia.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjectRaffaStatusUsia\ProjectRaffaStatusUsia\obj\Debug\net8.0\ProjectRaffaStatusUsia.AssemblyInfoInputs.cache
+C:\ProjectRaffaStatusUsia\ProjectRaffaStatusUsia\obj\Debug\net8.0\ProjectRaffaStatusUsia.AssemblyInfo.cs
+C:\ProjectRaffaStatusUsia\ProjectRaffaStatusUsia\obj\Debug\net8.0\ProjectRaffaStatusUsia.csproj.CoreCompileInputs.cache
+C:\ProjectRaffaStatusUsia\ProjectRaffaStatusUsia\obj\Debug\net8.0\ProjectRaffaStatusUsia.dll
+C:\ProjectRaffaStatusUsia\ProjectRaffaStatusUsia\obj\Debug\net8.0\refint\ProjectRaffaStatusUsia.dll
+C:\ProjectRaffaStatusUsia\ProjectRaffaStatusUsia\obj\Debug\net8.0\ProjectRaffaStatusUsia.pdb
+C:\ProjectRaffaStatusUsia\ProjectRaffaStatusUsia\obj\Debug\net8.0\ProjectRaffaStatusUsia.genruntimeconfig.cache
+C:\ProjectRaffaStatusUsia\ProjectRaffaStatusUsia\obj\Debug\net8.0\ref\ProjectRaffaStatusUsia.dll
